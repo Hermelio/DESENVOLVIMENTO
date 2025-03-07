@@ -1,0 +1,8 @@
+Olá,
+
+Este é um e-mail de teste enviado pelo meu script Python.
+
+Apenas verificando se a conexão SMTP está funcionando corretamente.
+
+Atenciosamente,
+Equipe de Desenvolvimento
